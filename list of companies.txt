@@ -1,0 +1,26 @@
+Technology
+AAPL (Apple), MSFT (Microsoft), GOOGL (Alphabet), AMZN (Amazon), META (Meta), NVDA (Nvidia), TSLA (Tesla), IBM, INTC (Intel), AMD, ORCL (Oracle), CSCO (Cisco), ADBE (Adobe), CRM (Salesforce), NFLX (Netflix), TXN (Texas Instruments), QCOM (Qualcomm), AVGO (Broadcom), MU (Micron), UBER
+
+Banks and finance
+JPM (JPMorgan), BAC (Bank of America), WFC (Wells Fargo), C (Citigroup), GS (Goldman Sachs), MS (Morgan Stanley), V (Visa), MA (Mastercard), PYPL (PayPal), AXP (American Express)
+
+Consumer and retail
+KO (Coca-Cola), PEP (PepsiCo), MCD (McDonald’s), NKE (Nike), SBUX (Starbucks), WMT (Walmart), COST (Costco), TGT (Target), HD (Home Depot), DIS (Disney)
+
+Health
+JNJ (Johnson & Johnson), PFE (Pfizer), MRK (Merck), ABBV (AbbVie), UNH (UnitedHealth)
+
+Energy, industry and autos
+XOM (Exxon Mobil), CVX (Chevron), GE, CAT (Caterpillar), BA (Boeing), F (Ford), GM (General Motors), HON (Honeywell)
+
+Indian companies (BSE suffix, which I haven’t tested)
+RELIANCE.BSE, TCS.BSE, INFY.BSE, HDFCBANK.BSE, ICICIBANK.BSE, SBIN.BSE, WIPRO.BSE, TATAMOTORS.BSE
+
+
+Good pairs to try
+
+AAPL and MSFT (both tech)
+KO and PEP (both soft drinks, so likely high correlation)
+JPM and BAC (both banks)
+TSLA and F (electric cars and a traditional carmaker)
+XOM and AAPL (energy and tech, so likely low correlation)

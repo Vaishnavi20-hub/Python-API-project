@@ -1,0 +1,6 @@
+@"
+__pycache__/
+*.png
+all_companies.csv
+.env
+"@ | Out-File -Encoding utf8 .gitignore

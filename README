@@ -1,0 +1,9 @@
+@"
+# Stock Market Analyzer
+Python app that uses the Alpha Vantage API to analyze stock trends: moving averages, RSI, volatility, volume spikes, and two-stock comparison.
+
+## Setup
+pip install requests pandas matplotlib
+set ALPHAVANTAGE_API_KEY=your_key
+python stock_analyzer.py
+"@ | Out-File -Encoding utf8 README.md
